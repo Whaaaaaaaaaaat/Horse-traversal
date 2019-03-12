@@ -1,1 +1,1 @@
-# Horse-traversal
+C++和Qt，马踏八方，动态棋盘
